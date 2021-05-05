@@ -7,14 +7,14 @@ highlighter: rouge
 markdown: kramdown
 disqus: dbyll
 google_analytics: dbyll
-title: DoHun 22
+title: DoHun 2
 
 defaults:
   -
     scope:
       path: "" # empty string for all files
     values:
-      title: Do Hun 11
+      title: Do Hun
 
 description: Stylish Jekyll Theme
 author:
