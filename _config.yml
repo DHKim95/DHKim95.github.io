@@ -25,8 +25,7 @@ author:
   pinterest: 
   linkedin: 
   bio: Hi!
-  avatar : "/assets/taki.jpg
-
+  avatar :
 
 rss_path: feed.xml
 categories_path: categories.html
