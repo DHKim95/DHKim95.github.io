@@ -14,7 +14,7 @@ defaults:
     scope:
       path: "" # empty string for all files
     values:
-      title: Do Hun
+      title: Do Hun 낙서장
 
 description: Stylish Jekyll Theme
 author:
